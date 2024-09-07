@@ -4,14 +4,10 @@ Bem-vindo ao repositório de resumos que fiz sobre as disciplinas de Ciência da
 
 ## Disciplinas Disponíveis
 
-Atualmente, o repositório contém resumos para as seguintes disciplinas:
+Atualmente, o repositório contém resumos de disciplinas dos seguintes períodos:
 
-- [Computação Gráfica](./ComputacaoGrafica.md)
-- [Engenharia de Software](./EngenhariaDeSoftware.md)
-- [Inteligência Artificial](./InteligenciaArtificial.md)
-- [Interação Humano Computador](./InteracaoHumanoComputador.md)
-- [Sistemas Operacionais](./SistemasOperacionais.md)
-- [Teoria dos Grafos](./TeoriaDosGrafos.md)
+- [4º período](./4º%20período/README.md)
+- [5º período](./5º%20período/README.md)
 
 ## Planejamento Futuro
 
