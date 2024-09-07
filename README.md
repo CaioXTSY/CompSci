@@ -1,6 +1,6 @@
 # CompSci
 
-Bem-vindo ao repositório de resumos que fiz sobre as disciplinas de Ciência da Computação(UFAL Arapiraca). Aqui você encontrará resumos organizados por disciplina, com atualizações sendo feitas conforme eu avanço no curso.
+Bem-vindo ao repositório de resumos que fiz sobre as disciplinas de Ciência da Computação(UFAL Arapiraca). Aqui você encontrará resumos organizados por período, com atualizações sendo feitas conforme eu avanço no curso.
 
 ## Disciplinas Disponíveis
 
