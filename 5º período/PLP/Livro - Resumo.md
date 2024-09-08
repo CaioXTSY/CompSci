@@ -139,11 +139,6 @@
 - **Ambiguidade do Else**: Sentenças condicionais com `if-then-else` podem ser ambíguas. O compilador pode não saber a qual `if` o `else` pertence.
 - Uma gramática não ambígua resolve esse problema ao casar o `else` com o `then` mais próximo que não tenha um `else` correspondente. Isso elimina a possibilidade de múltiplas interpretações da mesma sentença.
 
-### Semântica Operacional
-- **Semântica Operacional Natural**: Foca no resultado final da execução de um programa completo, descrevendo o comportamento do programa de forma geral.
-- **Semântica Operacional Estrutural**: Examina a sequência completa de mudanças de estado que ocorrem durante a execução do programa, detalhando cada passo.
-- **Processo Básico**: Começa com a criação de uma linguagem intermediária clara, que pode ser interpretada por uma máquina virtual para executar e avaliar o programa.
-
 #### Exemplo Simples de Números Binários
 - Números binários podem ser representados por uma função que mapeia suas representações sintáticas para números decimais, utilizando uma árvore de análise sintática.
 
