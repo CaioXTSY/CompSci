@@ -103,13 +103,6 @@
 ### Pré-processadores
 - **Pré-processadores**: São programas que processam o código antes da compilação. Instruções de pré-processamento podem incluir trechos de código de outros arquivos ou expandir macros para simplificar o código fonte.
 
-### Ambientes de Programação
-- **Definição**: Um ambiente de programação consiste em ferramentas usadas para o desenvolvimento de software, como editores, compiladores e depuradores. Um ambiente completo pode integrar essas ferramentas em uma interface única, facilitando o desenvolvimento e manutenção de programas.
-- **Exemplos de Ambientes**:
-  - **UNIX**: Um dos ambientes de programação mais antigos, oferece uma ampla gama de ferramentas de suporte para o desenvolvimento de software, agora com interfaces gráficas.
-  - **JBuilder**: Um ambiente integrado para desenvolvimento em Java, oferecendo editor, compilador e depurador.
-  - **Microsoft Visual Studio .NET**: Ambiente que suporta múltiplas linguagens (.NET, C#, Visual Basic, entre outras) com uma interface gráfica avançada.
-
 ## Capítulo 2 - Não cai
 
 ## Capítulo 3 - Sintaxe(Sem Semântica)
