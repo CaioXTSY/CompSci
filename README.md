@@ -21,10 +21,12 @@ Atualmente, o repositório contém resumos de disciplinas dos seguintes período
 - **Paradigmas de Linguagens de Programação**
   - [Questões](./5º%20período/Paradigmas%20de%20Linguagens%20de%20Programação/Livro%20-%20Questoes.md)
   - [Resumo](./5º%20período/Paradigmas%20de%20Linguagens%20de%20Programação/Livro%20-%20Resumo.md)
-- **[Planejamento de Experimentos](./5º%20período/Planejamento%20de%20Experimentos/PE.md)**
+- **Planejamento de Experimentos**
+  - [Resumo](./5º%20período/Planejamento%20de%20Experimentos/AB1/PE.md)
+  - [Questões](./5º%20período/Planejamento%20de%20Experimentos/AB1/Questoes.md)
 - **[Sistemas Operacionais](./5º%20período/Sistemas%20Operacionais/Ab1/SistemasOperacionais.md)**
 
-#### **Sessão AB2** (em breve)
+#### **AB2** a fazer
 
 - Computação Gráfica
 - Inteligência Artificial
