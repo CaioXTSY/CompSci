@@ -8,17 +8,18 @@ Atualmente, o repositório contém resumos de disciplinas dos seguintes período
 
 ### 4º Período
 
-- Engenharia de Software
-- Interação Humano-Computador
-- Teoria dos Grafos
+- [Engenharia de Software](./4º%20período/Engenharia%20de%20Software/EngenhariaDeSoftware.md)
+- [Interação Humano-Computador](./4º%20período/Interaçao%20Humano%20Computador/InteracaoHumanoComputador.md)
+- [Teoria dos Grafos](./4º%20período/Teoria%20dos%20Grafos/TeoriaDosGrafos.md)
 
 ### 5º Período
 
-- Computação Gráfica
-- Inteligência Artificial
-- Paradigmas de Linguagens de Programação
-- Planejamento de Experimentos
-- Sistemas Operacionais
+- [Computação Gráfica](./5º%20período/Computação%20Grafica/AB1/ComputacaoGrafica.md)
+- [Inteligência Artificial](./5º%20período/Inteligencia%20Artificial/Ab1/InteligenciaArtificial.md)
+- [Paradigmas de Linguagens de Programação - Questões](./5º%20período/Paradigmas%20de%20Linguagens%20de%20Programação/Livro%20-%20Questoes.md)
+- [Paradigmas de Linguagens de Programação - Resumo](./5º%20período/Paradigmas%20de%20Linguagens%20de%20Programação/Livro%20-%20Resumo.md)
+- [Planejamento de Experimentos](./5º%20período/Planejamento%20de%20Experimentos/PE.md)
+- [Sistemas Operacionais](./5º%20período/Sistemas%20Operacionais/Ab1/SistemasOperacionais.md)
 
 ---
 
@@ -29,5 +30,3 @@ Pretendo continuar atualizando e organizando o conteúdo de maneira mais estrutu
 ## Contribuições
 
 Se você deseja contribuir com sugestões, melhorias ou adicionar novos resumos, sinta-se à vontade para abrir um **Pull Request** ou entrar em contato. Toda ajuda é muito bem-vinda!
-
----
