@@ -103,13 +103,6 @@
 ### Pré-processadores
 - **Pré-processadores**: São programas que processam o código antes da compilação. Instruções de pré-processamento podem incluir trechos de código de outros arquivos ou expandir macros para simplificar o código fonte.
 
-### Ambientes de Programação
-- **Definição**: Um ambiente de programação consiste em ferramentas usadas para o desenvolvimento de software, como editores, compiladores e depuradores. Um ambiente completo pode integrar essas ferramentas em uma interface única, facilitando o desenvolvimento e manutenção de programas.
-- **Exemplos de Ambientes**:
-  - **UNIX**: Um dos ambientes de programação mais antigos, oferece uma ampla gama de ferramentas de suporte para o desenvolvimento de software, agora com interfaces gráficas.
-  - **JBuilder**: Um ambiente integrado para desenvolvimento em Java, oferecendo editor, compilador e depurador.
-  - **Microsoft Visual Studio .NET**: Ambiente que suporta múltiplas linguagens (.NET, C#, Visual Basic, entre outras) com uma interface gráfica avançada.
-
 ## Capítulo 2 - Não cai
 
 ## Capítulo 3 - Sintaxe(Sem Semântica)
@@ -138,11 +131,6 @@
 ### Exemplo de uma Gramática Não Ambígua para if-then-else
 - **Ambiguidade do Else**: Sentenças condicionais com `if-then-else` podem ser ambíguas. O compilador pode não saber a qual `if` o `else` pertence.
 - Uma gramática não ambígua resolve esse problema ao casar o `else` com o `then` mais próximo que não tenha um `else` correspondente. Isso elimina a possibilidade de múltiplas interpretações da mesma sentença.
-
-### Semântica Operacional
-- **Semântica Operacional Natural**: Foca no resultado final da execução de um programa completo, descrevendo o comportamento do programa de forma geral.
-- **Semântica Operacional Estrutural**: Examina a sequência completa de mudanças de estado que ocorrem durante a execução do programa, detalhando cada passo.
-- **Processo Básico**: Começa com a criação de uma linguagem intermediária clara, que pode ser interpretada por uma máquina virtual para executar e avaliar o programa.
 
 #### Exemplo Simples de Números Binários
 - Números binários podem ser representados por uma função que mapeia suas representações sintáticas para números decimais, utilizando uma árvore de análise sintática.
