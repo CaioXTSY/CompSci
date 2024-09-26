@@ -67,7 +67,7 @@ Além dos arquivos comuns, existem outros tipos de arquivos utilizados para prop
 
 ---
 
-## 3. Diretórios
+## Diretórios
 
 ### Fatos Básicos
 
@@ -143,7 +143,7 @@ Aplicado a diretórios hierárquicos, comumente adotando dois métodos:
 
 ---
 
-## 4. Implementação do Sistema de Arquivos
+## Implementação do Sistema de Arquivos
 
 ### Esquema do Sistema de Arquivos
 
