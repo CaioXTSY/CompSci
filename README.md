@@ -25,6 +25,7 @@ Atualmente, o repositório contém resumos de disciplinas dos seguintes período
   - [Resumo](./5º%20período/Planejamento%20de%20Experimentos/Ab1/PE.md)
   - [Questões](./5º%20período/Planejamento%20de%20Experimentos/Ab1/Questoes.md)
 - **[Sistemas Operacionais](./5º%20período/Sistemas%20Operacionais/Ab1/SistemasOperacionais.md)**
+- **[Sistemas Operacionais(E/S)](./5º%20período/Sistemas%20Operacionais/Ab1/ES.md)**
 
 #### **AB2**
 
