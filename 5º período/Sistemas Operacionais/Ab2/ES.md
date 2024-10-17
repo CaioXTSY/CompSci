@@ -351,7 +351,7 @@ O gerenciamento de E/S abrange tanto os **princípios de hardware** quanto os **
   - **Vantagem**: Eficiência máxima, especialmente para grandes volumes de dados.
   - **Desvantagem**: Requer hardware adicional (controlador DMA) e pode ser mais complexo de implementar.
 
-## Camadas de Software de E/S
+## Camadas de Software de E/S(PODE PEGAR MAIS LEVE AQ, ELE NAO SE APROFUNDOU EM SALA!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
 
 Para lidar com a complexidade e diversidade das operações de E/S, o sistema operacional utiliza uma arquitetura em camadas, cada uma com responsabilidades específicas.
 
